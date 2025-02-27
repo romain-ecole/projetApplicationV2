@@ -1,0 +1,60 @@
+U:\dev\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\obj\Debug\IohnerWinterTPChapitre4.csproj.AssemblyReference.cache
+U:\dev\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\obj\Debug\IohnerWinterTPChapitre4.FenChp4.resources
+U:\dev\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\obj\Debug\IohnerWinterTPChapitre4.Properties.Resources.resources
+U:\dev\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\obj\Debug\IohnerWinterTPChapitre4.csproj.GenerateResource.cache
+U:\dev\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\obj\Debug\IohnerWinterTPChapitre4.csproj.CoreCompileInputs.cache
+U:\dev\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\bin\Debug\IohnerWinterTPChapitre4.exe.config
+U:\dev\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\bin\Debug\IohnerWinterTPChapitre4.exe
+U:\dev\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\bin\Debug\IohnerWinterTPChapitre4.pdb
+U:\dev\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\obj\Debug\IohnerWinterTPChapitre4.exe
+U:\dev\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\obj\Debug\IohnerWinterTPChapitre4.pdb
+D:\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\bin\Debug\IohnerWinterTPChapitre4.exe.config
+D:\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\bin\Debug\IohnerWinterTPChapitre4.exe
+D:\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\bin\Debug\IohnerWinterTPChapitre4.pdb
+D:\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\obj\Debug\IohnerWinterTPChapitre4.csproj.AssemblyReference.cache
+D:\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\obj\Debug\IohnerWinterTPChapitre4.FenChp4.resources
+D:\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\obj\Debug\IohnerWinterTPChapitre4.Properties.Resources.resources
+D:\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\obj\Debug\IohnerWinterTPChapitre4.csproj.GenerateResource.cache
+D:\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\obj\Debug\IohnerWinterTPChapitre4.csproj.CoreCompileInputs.cache
+D:\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\obj\Debug\IohnerWinterTPChapitre4.exe
+D:\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\obj\Debug\IohnerWinterTPChapitre4.pdb
+D:\Projet Cours\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\bin\Debug\IohnerWinterTPChapitre4.exe.config
+D:\Projet Cours\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\bin\Debug\IohnerWinterTPChapitre4.exe
+D:\Projet Cours\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\bin\Debug\IohnerWinterTPChapitre4.pdb
+D:\Projet Cours\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\obj\Debug\IohnerWinterTPChapitre4.csproj.AssemblyReference.cache
+D:\Projet Cours\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\obj\Debug\IohnerWinterTPChapitre4.FenChp4.resources
+D:\Projet Cours\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\obj\Debug\IohnerWinterTPChapitre4.Properties.Resources.resources
+D:\Projet Cours\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\obj\Debug\IohnerWinterTPChapitre4.csproj.GenerateResource.cache
+D:\Projet Cours\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\obj\Debug\IohnerWinterTPChapitre4.csproj.CoreCompileInputs.cache
+D:\Projet Cours\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\obj\Debug\IohnerWinterTPChapitre4.exe
+D:\Projet Cours\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\obj\Debug\IohnerWinterTPChapitre4.pdb
+C:\Users\valentin.binaku\Desktop\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\bin\Debug\IohnerWinterTPChapitre4.exe.config
+C:\Users\valentin.binaku\Desktop\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\bin\Debug\IohnerWinterTPChapitre4.exe
+C:\Users\valentin.binaku\Desktop\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\bin\Debug\IohnerWinterTPChapitre4.pdb
+C:\Users\valentin.binaku\Desktop\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\obj\Debug\IohnerWinterTPChapitre4.csproj.AssemblyReference.cache
+C:\Users\valentin.binaku\Desktop\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\obj\Debug\IohnerWinterTPChapitre4.FenChp4.resources
+C:\Users\valentin.binaku\Desktop\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\obj\Debug\IohnerWinterTPChapitre4.Properties.Resources.resources
+C:\Users\valentin.binaku\Desktop\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\obj\Debug\IohnerWinterTPChapitre4.csproj.GenerateResource.cache
+C:\Users\valentin.binaku\Desktop\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\obj\Debug\IohnerWinterTPChapitre4.csproj.CoreCompileInputs.cache
+C:\Users\valentin.binaku\Desktop\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\obj\Debug\IohnerWinterTPChapitre4.exe
+C:\Users\valentin.binaku\Desktop\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\obj\Debug\IohnerWinterTPChapitre4.pdb
+U:\vbinaku\Service Info\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\bin\Debug\IohnerWinterTPChapitre4.exe.config
+U:\vbinaku\Service Info\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\bin\Debug\IohnerWinterTPChapitre4.exe
+U:\vbinaku\Service Info\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\bin\Debug\IohnerWinterTPChapitre4.pdb
+U:\vbinaku\Service Info\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\obj\Debug\IohnerWinterTPChapitre4.csproj.AssemblyReference.cache
+U:\vbinaku\Service Info\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\obj\Debug\IohnerWinterTPChapitre4.FenChp4.resources
+U:\vbinaku\Service Info\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\obj\Debug\IohnerWinterTPChapitre4.Properties.Resources.resources
+U:\vbinaku\Service Info\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\obj\Debug\IohnerWinterTPChapitre4.csproj.GenerateResource.cache
+U:\vbinaku\Service Info\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\obj\Debug\IohnerWinterTPChapitre4.csproj.CoreCompileInputs.cache
+U:\vbinaku\Service Info\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\obj\Debug\IohnerWinterTPChapitre4.exe
+U:\vbinaku\Service Info\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\obj\Debug\IohnerWinterTPChapitre4.pdb
+C:\Users\Hmem\OneDrive\Bureau\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\obj\Debug\IohnerWinterTPChapitre4.csproj.AssemblyReference.cache
+C:\Users\Hmem\OneDrive\Bureau\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\obj\Debug\IohnerWinterTPChapitre4.FenChp4.resources
+C:\Users\Hmem\OneDrive\Bureau\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\obj\Debug\IohnerWinterTPChapitre4.Properties.Resources.resources
+C:\Users\Hmem\OneDrive\Bureau\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\obj\Debug\IohnerWinterTPChapitre4.csproj.GenerateResource.cache
+C:\Users\Hmem\OneDrive\Bureau\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\obj\Debug\IohnerWinterTPChapitre4.csproj.CoreCompileInputs.cache
+C:\Users\Hmem\OneDrive\Bureau\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\obj\Debug\IohnerWinterTPChapitre4.exe
+C:\Users\Hmem\OneDrive\Bureau\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\obj\Debug\IohnerWinterTPChapitre4.pdb
+C:\Users\Hmem\OneDrive\Bureau\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\bin\Debug\IohnerWinterTPChapitre4.exe.config
+C:\Users\Hmem\OneDrive\Bureau\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\bin\Debug\IohnerWinterTPChapitre4.exe
+C:\Users\Hmem\OneDrive\Bureau\IohnerWinterTPChapitre4\IohnerWinterTPChapitre4\bin\Debug\IohnerWinterTPChapitre4.pdb
